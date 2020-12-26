@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Calculator.cpp(332,23): warning C4018: <: несоответствие типов со знаком и без знака
+  LinkedList.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Calculator.cpp(311): warning C4715: calculator::correct_reeding: значение возвращается не при всех путях выполнения
+  calculator.vcxproj -> C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Debug\calculator.exe

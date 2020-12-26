@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  calculatorTest.cpp
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Calculator.cpp(332,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Calculator.cpp(311): warning C4715: calculator::correct_reeding: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Debug\calculatorTest.lib и объект C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Debug\calculatorTest.exp
+  calculatorTest.vcxproj -> C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\kyrsovaya\calculator\Debug\calculatorTest.dll
